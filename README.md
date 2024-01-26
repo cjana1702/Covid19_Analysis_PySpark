@@ -1,5 +1,5 @@
 
-# COVID-19 Data Analysis: Harnessing PySpark & Spark SQL on AWS EMR
+# COVID-19 Impact Analysis: Unveiling High-Risk Zones Through Advanced Data Techniques on AWS EMR
 ## Project Vision
 This project delves into COVID-19's impact in the USA, aiming to pinpoint and mitigate high-risk zones for the outbreak. Utilizing the power of PySpark and Spark SQL on AWS EMR, and Docker for development, the analysis focuses on discerning crucial patterns in mask usage, vaccination trends, and state-wise risk assessment.
 
